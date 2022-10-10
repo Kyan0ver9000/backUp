@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TileSpriteMap
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 2bb62cb5a506d09458e57728b1e7f8de, type: 3}
+    - {fileID: 2800000, guid: ca4fbfd541fafd6488fcc4e6c011a1f9, type: 3}
+    - {fileID: 21300000, guid: 67ffc6e5ffac56440ae437a41d5c4869, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -791540455, guid: 2bb62cb5a506d09458e57728b1e7f8de, type: 3}
+  - {fileID: -1778098120, guid: 2bb62cb5a506d09458e57728b1e7f8de, type: 3}
+  - {fileID: -30887496, guid: 2bb62cb5a506d09458e57728b1e7f8de, type: 3}
+  - {fileID: 1366701181, guid: 2bb62cb5a506d09458e57728b1e7f8de, type: 3}
+  - {fileID: -214178362, guid: 2bb62cb5a506d09458e57728b1e7f8de, type: 3}
+  - {fileID: -1316038493, guid: 2bb62cb5a506d09458e57728b1e7f8de, type: 3}
+  - {fileID: -219467604, guid: 2bb62cb5a506d09458e57728b1e7f8de, type: 3}
+  - {fileID: 1658284758, guid: 2bb62cb5a506d09458e57728b1e7f8de, type: 3}
+  - {fileID: 1196868761, guid: 2bb62cb5a506d09458e57728b1e7f8de, type: 3}
+  - {fileID: 1973584966, guid: 2bb62cb5a506d09458e57728b1e7f8de, type: 3}
+  - {fileID: -1699582447, guid: 2bb62cb5a506d09458e57728b1e7f8de, type: 3}
+  - {fileID: -1690737891, guid: 2bb62cb5a506d09458e57728b1e7f8de, type: 3}
+  - {fileID: -861500457, guid: 2bb62cb5a506d09458e57728b1e7f8de, type: 3}
+  - {fileID: -757282788, guid: 2bb62cb5a506d09458e57728b1e7f8de, type: 3}
+  - {fileID: -2069240974, guid: 2bb62cb5a506d09458e57728b1e7f8de, type: 3}
+  - {fileID: -1235965479, guid: 2bb62cb5a506d09458e57728b1e7f8de, type: 3}
+  - {fileID: 1696709985, guid: ca4fbfd541fafd6488fcc4e6c011a1f9, type: 3}
+  - {fileID: 2085034496, guid: ca4fbfd541fafd6488fcc4e6c011a1f9, type: 3}
+  - {fileID: -150825132, guid: ca4fbfd541fafd6488fcc4e6c011a1f9, type: 3}
+  - {fileID: 1605393314, guid: ca4fbfd541fafd6488fcc4e6c011a1f9, type: 3}
+  - {fileID: 1030132384, guid: ca4fbfd541fafd6488fcc4e6c011a1f9, type: 3}
+  - {fileID: -707415345, guid: ca4fbfd541fafd6488fcc4e6c011a1f9, type: 3}
+  - {fileID: -1472802342, guid: ca4fbfd541fafd6488fcc4e6c011a1f9, type: 3}
+  - {fileID: -699526294, guid: ca4fbfd541fafd6488fcc4e6c011a1f9, type: 3}
+  - {fileID: -1628810231, guid: ca4fbfd541fafd6488fcc4e6c011a1f9, type: 3}
+  - {fileID: -1829647098, guid: ca4fbfd541fafd6488fcc4e6c011a1f9, type: 3}
+  - {fileID: -161887609, guid: ca4fbfd541fafd6488fcc4e6c011a1f9, type: 3}
+  - {fileID: -1977643046, guid: ca4fbfd541fafd6488fcc4e6c011a1f9, type: 3}
+  - {fileID: 1666448216, guid: ca4fbfd541fafd6488fcc4e6c011a1f9, type: 3}
+  - {fileID: 907202220, guid: ca4fbfd541fafd6488fcc4e6c011a1f9, type: 3}
+  - {fileID: 531751586, guid: ca4fbfd541fafd6488fcc4e6c011a1f9, type: 3}
+  - {fileID: -198417742, guid: ca4fbfd541fafd6488fcc4e6c011a1f9, type: 3}
+  - {fileID: 21300000, guid: 67ffc6e5ffac56440ae437a41d5c4869, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - fences_13
+  - fences_12
+  - fences_11
+  - fences_10
+  - fences_15
+  - fences_14
+  - fences_0
+  - fences_1
+  - fences_2
+  - fences_3
+  - fences_4
+  - fences_5
+  - fences_6
+  - fences_7
+  - fences_8
+  - fences_9
+  - new plains_12
+  - new plains_13
+  - new plains_10
+  - new plains_11
+  - new plains_14
+  - new plains_15
+  - new plains_7
+  - new plains_6
+  - new plains_5
+  - new plains_4
+  - new plains_3
+  - new plains_2
+  - new plains_1
+  - new plains_0
+  - new plains_9
+  - new plains_8
+  - water-lave
+  m_RenderDataMap: {}
+  m_Tag: TileSpriteMap
+  m_IsVariant: 0
